@@ -72,11 +72,11 @@ logo = """
 
    ▄︻̷̿┻̿═━一
 
-   THE ANONYMOUS lovehacker TRICKER 
+   THE ANONYMOUS Crazy Ritesh
 
-   THE LEGEND ℒℴνℯ
+   THE LEGEND Banda
 
-   THE GAME CHANGER ℒℴνℯ
+   THE GAME CHANGER Banda
 
    crazy bandha
 
@@ -90,7 +90,7 @@ logo = """
 
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
 
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttp
 
 \033[1;91m======================================="""
 
@@ -138,9 +138,9 @@ print  """\033[1;91m=======================================
 
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "lovehacker"
+CorrectUsername = "Crazybanda"
 
-CorrectPassword = "03094161457"
+CorrectPassword = "Crazybanda"
 
 loop = 'true'
 
